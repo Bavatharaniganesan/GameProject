@@ -1,0 +1,18 @@
+body
+{
+  background-color: rgb(204, 245, 196);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.cell
+{
+  border:1px solid blue;
+  width: 150px;
+  height: 150px;
+  padding:30px;
+  cursor: pointer;
+  font-size: 50px;
+  text-align: center;
+} 
